@@ -12,17 +12,37 @@
 
 ```yaml
 apiVersion: blackdevs/v1
-kind: FullStackDeveloper
+kind: SoftwareEngineer
 metadata:
   name: Julio Cesar
   namespace: blackdevs
   annotations:
     github/repo: juliocesarscheidt
   labels:
-    languages: Javascript,Python,Golang,Typescript,PHP,Shell Script
-    infrastructure: CI/CD,Docker,Kubernetes,Terraform,ECS,Ansible
-    databases: MySQL,Postgres,Redis,MongoDB
-    OS: GNU Linux,Windows
+    languages:
+      - Javascript/Node JS
+      - Python
+      - Typescript
+      - PHP
+      - Golang
+      - Java
+      - C Sharp
+      - Shell Script
+    infrastructure:
+      - CI/CD
+      - Docker
+      - Kubernetes
+      - Terraform
+      - Helm
+      - Ansible
+      - Rancher
+      - Jenkins
+    databases:
+      - MySQL
+      - Postgres
+      - MongoDB
+      - DynamoDB
+      - Redis
 spec:
   replicas: 1
   containers:
