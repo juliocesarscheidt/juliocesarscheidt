@@ -5,7 +5,7 @@
 > A software architect with passion about knowledge and innovation, trying to make the world a better place through technology.  
 > Currently studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
 
-<a href="https://www.linkedin.com/in/julio-cesar-scheidt/" style="margin-left: 5px; margin-right: 5px;"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/juliocesarscheidt/" style="margin-left: 5px; margin-right: 5px;"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
 <a href="https://dev.to/juliocesardevelopment"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/dev.png"></a>
 
 ### ✩ Technical background ✩
