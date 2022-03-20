@@ -2,8 +2,8 @@
 
 ### $ whoami
 
-> A software architect with passion about knowledge and innovation, trying to make the world a better place through technology.  
-> Currently studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
+> A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.  
+> Studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
 
 <a href="https://www.linkedin.com/in/juliocesarscheidt/" style="margin-left: 5px; margin-right: 5px;"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
 <a href="https://dev.to/juliocesardevelopment"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/dev.png"></a>
@@ -12,7 +12,7 @@
 
 ```yaml
 apiVersion: blackdevs/v1
-kind: SoftwareArchitect
+kind: SoftwareEngineer
 metadata:
   name: Julio Cesar
   namespace: blackdevs
@@ -22,47 +22,48 @@ metadata:
     languages:
       - Javascript/Node JS
       - Python
-      - Golang
       - Java
+      - Golang
       - Typescript
       - PHP
       - Shell Script
       - C Sharp
       - VBA
     infrastructure:
-      - CI/CD
+      - GNU Linux
+      - CI/CD (Jenkins/Github Actions/Codefresh/Travis CI/AWS CodePipeline)
+      - IAC (Terraform/Ansible)
       - Containers/Docker
-      - Kubernetes
-      - Helm
-      - Terraform
-      - Jenkins
-      - Ansible
+      - Kubernetes/Helm
       - Rancher
-      - FluxCD
     sql-databases:
       - MySQL
       - Postgres
-      - Oracle
+      - Oracle Database
       - Redshift
+      - SQL Server
     nosql-databases:
       - MongoDB
       - DynamoDB
       - Cassandra
       - Redis
       - ETCD
-    others:
-      - Lambda Function/Serverless Architecture
-      - AWS SQS/SNS/SES
-      - AWS ECS
-      - APIs RESTful, SOAP, gRPC
-      - SOA Architecture
+    architectures:
+      - Serverless Architecture
+      - Event Driven Architecture (EDA)
       - Microservices Architecture
-      - ETL
+      - Design Patterns/SOLID
+      - Domain Driven Design (DDD)
+    others:
+      - AWS SQS/SNS/SES
+      - AWS ECS/EKS
+      - APIs RESTful, gRPC, GraphQL, SOAP
+      - Unit Test/Integration Test
       - Apache Kafka
       - Apache Airflow
-      - ElasticSearch
-      - GitOps
-      - Swagger
+      - ETL
+      - ElasticSearch/AWS OpenSearch
+      - Swagger/OpenAPI
 spec:
   replicas: 1
   containers:
