@@ -2,9 +2,14 @@
 
 ### $ whoami
 
-> A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.  
+> A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.
 > Studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
 
+> Certified as AWS Solutions Architect Associate and Oracle Cloud Infrastructure Architect Associate:
+<a href="https://www.credly.com/badges/f15e1d95-d7f7-453d-9c8e-986687dc2799/public_url" style="margin-left: 5px; margin-right: 5px;"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-logo.png"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F14FAB2F72D88D9DD72CB1A95E6B0DA8C15603F4A80B003ABE763F2BE39D965"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/oci-certification-logo.png"></a>
+
+> Social networks:
 <a href="https://www.linkedin.com/in/juliocesarscheidt/" style="margin-left: 5px; margin-right: 5px;"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
 <a href="https://dev.to/juliocesardevelopment"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/dev.png"></a>
 
@@ -32,7 +37,7 @@ metadata:
     infrastructure:
       - GNU Linux
       - CI/CD (Jenkins/Github Actions/Codefresh/Travis CI/AWS CodePipeline)
-      - IAC (Terraform/Ansible)
+      - IAC (Terraform/CloudFormation/Ansible)
       - Containers/Docker
       - Kubernetes/Helm
       - Rancher
