@@ -5,7 +5,7 @@
 > A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.
 > Studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
 
-> Certified as AWS Solutions Architect Associate, AWS Developer Associate and Oracle Cloud Infrastructure Architect Associate:
+> Certified as AWS Solutions Architect Associate, AWS Developer Associate, Oracle Cloud Infrastructure Architect Associate and Terraform Associate:
 
 <a href="https://www.credly.com/badges/f15e1d95-d7f7-453d-9c8e-986687dc2799/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-solutions-architect-logo-v2.png"></a>
 <a href="https://www.credly.com/badges/5555c900-7949-4a3a-8117-d77e5f5e53f4/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-developer-associate-logo-v2.png"></a>
