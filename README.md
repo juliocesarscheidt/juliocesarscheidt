@@ -20,13 +20,13 @@
 ### ✩ Technical background ✩
 
 ```yaml
-apiVersion: blackdevs/v1
+apiVersion: blackdevs.com.br/v1
 kind: SoftwareEngineer
 metadata:
-  name: Julio Cesar
-  namespace: blackdevs
+  name: Julio Cesar Scheidt
+  namespace: Blackdevs
   annotations:
-    github/repo: juliocesarscheidt
+    github/user: juliocesarscheidt
   labels:
     languages:
       - Javascript/Node JS
@@ -36,15 +36,15 @@ metadata:
       - Typescript
       - PHP
       - Shell Script
-      - C Sharp
+      - C#
       - VBA
     infrastructure:
       - GNU Linux
-      - CI/CD (Jenkins/Github Actions/Codefresh/Travis CI/AWS CodePipeline)
+      - CI/CD (Jenkins/Gitlab/Github Actions/Codefresh/AWS Codebuild & CodePipeline)
       - IAC (Terraform/CloudFormation/Ansible)
-      - Containers/Docker
-      - Kubernetes/Helm
-      - Rancher
+      - Containers/Docker/LXC
+      - Kubernetes/Docker Swarm/Rancher
+      - Helm
     sql-databases:
       - MySQL
       - Postgres
@@ -54,24 +54,29 @@ metadata:
     nosql-databases:
       - MongoDB
       - DynamoDB
-      - Cassandra
       - Redis
+      - Cassandra
       - ETCD
     architectures:
       - Serverless Architecture
-      - Event Driven Architecture (EDA)
       - Microservices Architecture
-      - Design Patterns/SOLID
+      - Event Driven Architecture (EDA)
+      - Design Patterns
+      - SOLID
+      - Clean Architecture
       - Domain Driven Design (DDD)
     others:
-      - AWS SQS/SNS/SES
-      - AWS ECS/EKS
       - APIs RESTful, gRPC, GraphQL, SOAP
-      - Unit Test/Integration Test
+      - APM & OpenTelemetry
+      - Unit Test
+      - AWS ECS/EKS/ElasticBeanstalk
+      - AWS SQS/SNS/SES
       - Apache Kafka
+      - Apache Spark/Databricks
+      - Apache Hadoop/EMR
       - Apache Airflow
-      - ETL
-      - ElasticSearch/AWS OpenSearch
+      - ETL/BI
+      - ElasticSearch/ELK Stack
       - Swagger/OpenAPI
 spec:
   replicas: 1
