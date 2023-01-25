@@ -3,9 +3,9 @@
 ### $ whoami
 
 > A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.
-> Studying about cloud computing, infrastructure, microservices architecture, design patterns, and always looking for automating stuff.
+> Alaways studying about cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns, and always looking for automating stuff.
 
-> Certificate in a few cloud providers:
+> Certificate in cloud providers:
 
 <a href="https://www.credly.com/badges/f15e1d95-d7f7-453d-9c8e-986687dc2799/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-solutions-architect-logo-v2.png"></a>
 <a href="https://www.credly.com/badges/5555c900-7949-4a3a-8117-d77e5f5e53f4/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-developer-associate-logo-v2.png"></a>
@@ -15,9 +15,12 @@
 
 > Social networks:
 
-<a href="https://blackdevs.com.br" title="Website" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/blackdevs.png"></a>
 <a href="https://www.linkedin.com/in/juliocesarscheidt/" style="margin-left: 5px; margin-right: 5px;" title="LinkedIn" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
 <a href="https://dev.to/juliocesardevelopment" title="Dev.To" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/dev.png"></a>
+
+> Website:
+
+<a href="https://blackdevs.com.br" title="Website" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/blackdevs.png"></a>
 
 ### ✩ Technical background ✩
 
@@ -37,15 +40,16 @@ metadata:
       - Golang
       - Typescript
       - PHP
-      - Shell Script
       - C#
       - VBA
+      - Shell Script
+      - Powershell
     infrastructure:
       - GNU Linux
       - CI/CD (Jenkins/Gitlab/Github Actions/Codefresh/AWS Codebuild & CodePipeline)
       - IAC (Terraform/CloudFormation/Ansible)
-      - Containers/Docker/LXC
-      - Kubernetes/Docker Swarm/Rancher
+      - Containers/Docker/LXC/Containerd
+      - Kubernetes/Docker Swarm/Rancher/ECS
       - Helm
     sql-databases:
       - MySQL
