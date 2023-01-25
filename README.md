@@ -3,7 +3,7 @@
 ### $ whoami
 
 > A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.
-> Alaways studying about cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns, and always looking for automating stuff.
+> Always studying about cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns, and always looking for automating stuff.
 
 > Certificate in cloud providers:
 
