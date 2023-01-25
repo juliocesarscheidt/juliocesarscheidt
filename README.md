@@ -15,16 +15,9 @@
 
 > Social networks:
 
+<a href="https://blackdevs.com.br" title="Website" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/blackdevs.png"></a>
 <a href="https://www.linkedin.com/in/juliocesarscheidt/" style="margin-left: 5px; margin-right: 5px;" title="LinkedIn" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/linkedin.png"></a>
 <a href="https://dev.to/juliocesardevelopment" title="Dev.To" target="_blank"><img height="30" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/dev.png"></a>
-
-### ✩ Stats ✩
-
-<div align="center">
-  <a href="https://github.com/juliocesarscheidt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliocesarscheidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarscheidt&layout=compact&langs_count=8&theme=dark"/>
-</div>
 
 ### ✩ Technical background ✩
 
