@@ -2,8 +2,8 @@
 
 ### $ whoami
 
-> A software engineer passionate about knowledge and innovation, trying to make the world a better place through technology.
-> Always studying about cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns and best practices.
+> A software engineer passionate about knowledge and innovation.
+> Always studying more and more about software architecture, cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns and programming best practices.
 
 > Certificate in cloud providers:
 
@@ -34,56 +34,45 @@ metadata:
     github/user: juliocesarscheidt
   labels:
     languages:
-      - Javascript/Node JS
       - Python
+      - Javascript/Node JS
       - Java
       - Golang
-      - Typescript
       - PHP
-      - C#
-      - VBA
       - Shell Script
-      - Powershell
+      - VBA
+    architectures:
+      - Serverless & Microservices Architecture
+      - Event Driven Architecture (EDA)
+      - Design Patterns & SOLID
+      - Clean Architecture
+      - Domain Driven Design (DDD)
     infrastructure:
       - GNU Linux
-      - CI/CD (Jenkins/Gitlab/Github Actions/Codefresh/AWS Codebuild & CodePipeline)
-      - IAC (Terraform/CloudFormation/Ansible)
-      - Containers/Docker/LXC/Containerd
-      - Kubernetes/Docker Swarm/Rancher/ECS
-      - Helm
+      - CI/CD (Jenkins/Gitlab/Github Actions/AWS Codebuild & CodePipeline)
+      - IaC (Terraform/CloudFormation)
+      - Containers/Docker/Containerd
+      - Docker/AWS ECS/Kubernetes/Helm
     sql-databases:
       - MySQL
       - Postgres
       - Oracle Database
-      - Redshift
       - SQL Server
     nosql-databases:
       - MongoDB
       - DynamoDB
       - Redis
-      - Cassandra
-      - ETCD
-    architectures:
-      - Serverless Architecture
-      - Microservices Architecture
-      - Event Driven Architecture (EDA)
-      - Design Patterns
-      - SOLID
-      - Clean Architecture
-      - Domain Driven Design (DDD)
     others:
       - APIs RESTful, gRPC, GraphQL, SOAP
       - APM & OpenTelemetry
-      - Unit Test
-      - AWS ECS/EKS/ElasticBeanstalk
-      - AWS SQS/SNS/SES
-      - Apache Kafka
-      - Apache Spark/Databricks
-      - Apache Hadoop/EMR
-      - Apache Airflow
-      - ETL/BI
-      - ElasticSearch/ELK Stack
-      - Swagger/OpenAPI
+      - Unit Testing
+      - Apache Kafka & Rabbitmq
+      - Apache Spark & Databricks
+      - Apache Hadoop & EMR
+      - Apache Airflow & ETL
+      - ElasticSearch & ELK Stack
+      - API Gateway
+      - Swagger & OpenAPI
 spec:
   replicas: 1
   containers:
