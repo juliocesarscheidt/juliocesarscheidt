@@ -2,15 +2,13 @@
 
 ### $ whoami
 
-> A software engineer passionate about knowledge and innovation.
+> A professional with profuse knowledge in software development covering multiple languages, microservices, cloud computing and AI.
 > Always studying more and more about software architecture, cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns and programming best practices.
 
 > Certificate in cloud providers:
 
 <a href="https://www.credly.com/badges/f15e1d95-d7f7-453d-9c8e-986687dc2799/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-solutions-architect-logo-v2.png"></a>
 <a href="https://www.credly.com/badges/5555c900-7949-4a3a-8117-d77e5f5e53f4/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/aws-certification-developer-associate-logo-v2.png"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1F14FAB2F72D88D9DD72CB1A95E6B0DA8C15603F4A80B003ABE763F2BE39D965" title="OCI" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/oci-certification-logo.png"></a>
-<a href="https://www.credly.com/badges/df7f0469-d09c-4b2b-83ee-22c0cd110680/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/terraform-associate.png"></a>
 <a href="https://www.credly.com/badges/9b828b5d-9a8e-41ce-bdbe-d5303fcee333/public_url" style="margin-left: 5px; margin-right: 5px;" title="AWS" target="_blank"><img height="70" src="https://github.com/juliocesarscheidt/juliocesarscheidt/blob/main/icon/microsoft-azure-fundamentals.png"></a>
 
 > Social networks:
