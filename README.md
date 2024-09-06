@@ -2,7 +2,7 @@
 
 ### $ whoami
 
-> A professional with profuse knowledge in software development covering multiple languages, microservices, cloud computing and AI.
+> A professional with profuse knowledge in software development covering multiple languages, microservices, cloud computing and AI.  
 > Always studying more and more about software architecture, cloud computing, serverless and microservices architecture, clean code and clean architecture, design patterns and programming best practices.
 
 > Certificate in cloud providers:
