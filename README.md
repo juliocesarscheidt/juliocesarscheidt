@@ -33,10 +33,10 @@ metadata:
   labels:
     languages:
       - Python
-      - Javascript/Node JS
-      - Java
+      - Javascript/Typescript/Node JS
       - Golang
-      - PHP
+      - Java
+      - C#
       - Shell Script
       - VBA
     architectures:
@@ -47,10 +47,9 @@ metadata:
       - Domain Driven Design (DDD)
     infrastructure:
       - GNU Linux
-      - CI/CD (Jenkins/Gitlab/Github Actions/AWS Codebuild & CodePipeline)
-      - IaC (Terraform/CloudFormation)
-      - Containers/Docker/Containerd
-      - Docker/AWS ECS/Kubernetes/Helm
+      - CI/CD (Jenkins/Github Actions/Gitlab)
+      - IaC (Terraform/AWS CDK)
+      - Containers/Docker/AWS ECS/Kubernetes
     sql-databases:
       - MySQL
       - Postgres
@@ -60,17 +59,16 @@ metadata:
       - MongoDB
       - DynamoDB
       - Redis
+      - ElasticSearch
     others:
       - APIs RESTful, gRPC, GraphQL, SOAP
       - APM & OpenTelemetry
       - Unit Testing
-      - Apache Kafka & Rabbitmq
-      - Apache Spark & Databricks
-      - Apache Hadoop & EMR
-      - Apache Airflow & ETL
-      - ElasticSearch & ELK Stack
+      - Apache Kafka/Rabbitmq
+      - Apache Spark/Databricks/Apache Airflow/ETL
+      - Apache Hadoop/EMR
       - API Gateway
-      - Swagger & OpenAPI
+      - Swagger/OpenAPI
 spec:
   replicas: 1
   containers:
